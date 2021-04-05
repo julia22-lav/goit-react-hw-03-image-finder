@@ -8,8 +8,6 @@
   
   .SearchForm {
     display: flex;
-    /* align-items: center;
-    justify-content: center; */
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -23,9 +21,7 @@
     display: inline-block;
     width: 48px;
     height: 48px;
-    /* margin-left: 20px; */
     border: 0;
-    /* background-color: tomato; */
     background-image: url('https://image.flaticon.com/icons/svg/149/149852.svg');
     background-size: 40%;
     background-repeat: no-repeat;
@@ -58,7 +54,6 @@
     font: inherit;
     font-size: 20px;
     border: 0;
-    /* border: 2px solid tomato; */
     outline: none;
     padding-left: 4px;
     padding-right: 4px;
